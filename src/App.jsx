@@ -1,4 +1,4 @@
-import Header from "./components/header"; 
+import Header from "./components/Header"; 
 import Hero from "./components/Hero"; 
 import AOS from 'aos';
 import 'aos/dist/aos.css'; 

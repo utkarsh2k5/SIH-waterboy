@@ -1,0 +1,13 @@
+[
+  {
+    "state": "Rajasthan",
+    "year": "2023-2024",
+    "rainfall": {
+      "normal": "486.5 mm",
+      "calendar_year_2023": "631.3 mm",
+      "assessment_year": "539.1 mm",
+      "monsoon": "499.6 mm",
+      "non_monsoon": "39.5 mm"
+    }
+  }
+]
